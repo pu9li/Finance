@@ -1,4 +1,4 @@
-# 📈 Finance & Investment Analysis
+# 📈 Financial Models
 
 ## 📖 Overview
 
